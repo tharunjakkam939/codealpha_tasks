@@ -1,12 +1,13 @@
-# Basic Rule-Based Chatbot 🤖
+# Hangman Game 🎯
 
-A simple chatbot that responds to user input using predefined rules.
+A simple text-based Hangman game where the player guesses a word one letter at a time.
 
-## Responses
-- "hello", "hi" → "Hi!"
-- "how are you" → "I'm fine, thanks!"
-- "bye" or "exit" → "Goodbye!"
+## Features
+- 5 random predefined words
+- 6 incorrect guesses allowed
+- Text-based console interface
 
 ## How to Run
 ```bash
-python chatbot.py
+python hangman.py
+```
